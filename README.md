@@ -46,5 +46,5 @@ get access token via /api/user/token/
 - Filtering movies and movie sessions
 
 ## Endpoints
-![Снимок экрана 2023-05-03 в 13.00.33.png](..%2F..%2FDesktop%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-05-03%20%D0%B2%2013.00.33.png)
-![Снимок экрана 2023-05-03 в 13.01.06.png](..%2F..%2FDesktop%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-05-03%20%D0%B2%2013.01.06.png)
+![Endpoints_part1](Endpoints_1.png)
+![Endpoints_part2](Endpoints_2.png)
